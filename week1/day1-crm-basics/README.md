@@ -84,15 +84,5 @@ Potential Customer	Lead
 Information Column	Field
 Spreadsheet Row	Record
 
-5. Screenshots from Trailhead
-Salesforce Data Organization
-
-Objects are like spreadsheet tabs and records are like rows in a spreadsheet.
-
-Lightning Experience Navigation
-
-The navigation bar and App Launcher help users quickly access apps, objects, and records in Salesforce.
-
-Trailhead Playground
 
 A Trailhead Playground is a practice Salesforce org used for learning and hands-on challenges.
