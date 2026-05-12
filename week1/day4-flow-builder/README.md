@@ -1,7 +1,6 @@
 1. What is Flow Builder?
 
 Salesforce Flow Flow Builder is a no-code automation tool in Salesforce used to automate business processes using a visual interface instead of programming.
-
 Features of Flow Builder
 Automates repetitive tasks
 Creates workflows visually
@@ -13,29 +12,24 @@ Saves time
 Reduces manual work
 Improves accuracy
 Increases productivity
+
+
+
 2. Types of Flows
 Screen Flow
-
 A Screen Flow is a flow that interacts with users through screens, forms, buttons, and input fields.
-
 Uses
 Collect user information
 Display forms
 Guide users step by step
 Example
-
 A student registration form where users enter:
-
 Name
 Email
 Course details
-
 After submission, Salesforce stores the data automatically.
-
 Record-Triggered Flow
-
 A Record-Triggered Flow runs automatically when a Salesforce record is:
-
 Created
 Updated
 Deleted
@@ -45,11 +39,14 @@ Updating fields
 Creating tasks
 Sending emails
 Example
-
 When a new customer record is created:
-
 A welcome email is sent automatically.
 A follow-up task is assigned to the sales team.
+
+
+
+
+
 3. Automation Ideas (5 Examples)
 Automatically send welcome emails to new customers.
 Create a follow-up task when a support case is opened.
