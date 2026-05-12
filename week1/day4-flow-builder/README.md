@@ -56,6 +56,9 @@ Create a follow-up task when a support case is opened.
 Notify managers when employees submit leave requests.
 Update lead status automatically after a meeting is completed.
 Send payment reminder emails before invoice due dates.
+
+
+
 5. Manual vs Automated Process
 Manual Process	Automated Process
 Requires human effort	Runs automatically
@@ -63,6 +66,9 @@ Time-consuming	Faster execution
 More chances of errors	Higher accuracy
 Difficult to scale	Easy to manage large workloads
 Repetitive tasks	Efficient and consistent
+
+
+
 6. Reflection – Why Automation Matters in Enterprise Systems
 
 Automation is very important in enterprise systems because organizations handle large amounts of data and repetitive tasks every day.
