@@ -44,6 +44,7 @@ Used for validation and field updates	Used for related record operations
 Faster because no extra save needed	Used when record ID is required
 Example: updating field values	Example: creating related records
 4. Your Trigger Use Cases (5 Examples)
+
 1. Prevent Invalid Contact Names
 
 A trigger blocks contacts with restricted names like “INVALIDNAME”.
