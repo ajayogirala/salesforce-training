@@ -33,19 +33,19 @@ trigger ContactTrigger on Contact (before insert) {
 This trigger prevents users from inserting a Contact with the last name "Invalid".
 
 3. Difference Between Flow and Trigger
-Flow	Trigger
-Low-code automation tool	Code-based automation
-Easy for admins	Requires Apex programming
-Best for simple automation	Best for complex logic
-Drag-and-drop interface	Written in Apex language
-Less technical knowledge required	Requires developer skills
+Flow	                        Trigger
+Low-code automation tool	    Code-based automation
+Easy for admins	                Requires Apex programming
+Best for simple automation	    Best for complex logic
+Drag-and-drop interface	        Written in Apex language
+Less technical knowledge        required	Requires developer skills
 
 4. Difference Between Before Trigger and After Trigger
-Before Trigger	After Trigger
-Executes before record is saved	Executes after record is saved
-Used for validation and field updates	Used for related record operations
-Faster because no extra save needed	Used when record ID is required
-Example: updating field values	Example: creating related records
+Before Trigger	                         After Trigger
+Executes before record is saved	         Executes after record is saved
+Used for validation and field updates	 Used for related record operations
+Faster because no extra save needed	     Used when record ID is required
+Example: updating field values	        Example: creating related records
 
 5. Your Trigger Use Cases (5 Examples)
 1. Prevent Invalid Contact Names
