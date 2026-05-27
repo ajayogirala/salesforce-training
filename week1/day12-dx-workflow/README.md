@@ -46,8 +46,6 @@ sf org create scratch
 sf project deploy start
 sf apex run test
 sf org open
-
-
 Why GitHub Matters
 
 GitHub is a version control and collaboration platform that plays a critical role in Salesforce DX development. It serves as the central repository for source code and project history.
@@ -134,3 +132,5 @@ This workflow improves quality, traceability, collaboration, and deployment reli
 Reflection
 
 Learning Salesforce DX provided a better understanding of modern Salesforce development practices. The combination of Salesforce CLI, GitHub, and source-driven development simplifies project management and encourages collaboration. Scratch orgs provide isolated environments for development and testing, while GitHub ensures proper version control and code review processes. Enterprise workflows supported by Salesforce DX improve productivity, reduce deployment risks, and make large-scale Salesforce development more manageable. Overall, Salesforce DX is an essential framework for professional Salesforce developers working in team-based environments.
+
+ments.
